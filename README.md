@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Name 
 Moksh Berawala
 
